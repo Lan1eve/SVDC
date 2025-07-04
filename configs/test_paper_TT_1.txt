@@ -1,0 +1,12 @@
+--data_path_eval datasets/
+--filenames_file_eval datasets/test_TT_tuihua_1.txt
+--input_height 288
+--input_width 512
+--max_depth 10
+--min_depth 1e-3
+--n_bins 256
+--min_depth_eval 1e-3
+--max_depth_eval 10
+--weight_path weights/svdc_mix_trained.pt
+--dataset paper_test_TT_DS
+--save_dir result/TT_tuihua1/
