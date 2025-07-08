@@ -20,7 +20,7 @@ conda env create -n SVDC -f environment.yml
 
 To evaluate SVDC, you will need to download the required datasets.
 
-* [TartanAir & Dynamicstereo](https://drive.google.com/drive/folders/1WJiZxZtDnrsN1jIvbASCaLzUwbmf_0NT?usp=drive_link)
+* [TartanAir & Dynamicstereo](https://drive.google.com/file/d/1J45KRBYKIoWr35jIRzEnYA8VYbImvz-r/view?usp=drive_link)
 
 You need to unrar the file and put them in the datasets folder as follows:
 
